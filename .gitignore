@@ -32,5 +32,67 @@ npm-debug.log
 network_log.json
 network-audit-results.json
 
+gclient_entries
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Compiled source code
+*.class
+*.o
+*.so
+*.dll
+
+# Node.js
+npm-debug.log*
+package-lock.json
+yarn-error.log
+*.tgz
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+
+# Java
+*.jar
+*.war
+*.ear
+*.class
+
+# C/C++
+*.exe
+*.out
+*.app
+*.dSYM/
+
+# Ruby
+*.gem
+*.rbc
+*.bundle/
+log/
+tmp/
+vendor/
+
+# Go
+*.test
+*.out
+vendor/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+
+
 .npmrc
 In summary, these codes are primarily used to exclude files and directories that are not intended for modification, as well as to store configuration information and logs related to various tools and processes.

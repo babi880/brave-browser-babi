@@ -121,6 +121,7 @@ To start the build:
 
 1. 📥 Update sub-projects (chromium, brave-core) to latest commit of a git ref (e.g. tag or branch)
 2. 🤕 Apply patches
+
 3. 🔄 Update gclient DEPS dependencies
 ###Update DEPS: Use the following command to update your gclient DEPS:
 bash
